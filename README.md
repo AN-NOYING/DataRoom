@@ -1,5 +1,8 @@
 # DataRoom
 
+> [!IMPORTANT]
+> 본 데이터 사용 시 출처 표기를 권고합니다.
+
 ## MapleStory
 <details>
   <summary>Show/Hide</summary>
